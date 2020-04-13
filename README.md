@@ -2,6 +2,8 @@
 
 This project forks the source code of [LogRocket React + Firebase Auth](https://blog.logrocket.com/user-authentication-firebase-react-apps/) and configures with my Firebase Services.
 
+See Demo: [https://auth-firebase-tailwind.firebaseapp.com/](https://auth-firebase-tailwind.firebaseapp.com/)
+
 ## Motivation
 
 Originally attempted to recreate from blank Create React App.
